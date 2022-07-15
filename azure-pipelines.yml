@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
- lekemo
+  lekemo
 
 steps:
 - script: echo Hello, world!
